@@ -1,1 +1,1 @@
-Thissis Bumburlinga's first project!
+This is Bumburlinga's first project!
